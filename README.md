@@ -1,4 +1,4 @@
-# PDFMerger
+# ![#0a192f](https://via.placeholder.com/10/0a192f?text=+)PDFMerger
 I had the problem of not being able to use online tools for merging PDFs.
 On top of that, you have no idea what these online tools do with your data.
 
