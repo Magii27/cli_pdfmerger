@@ -18,7 +18,7 @@ while True:
 
         while True:
             SOURCE = input(
-                "│ Path to PDFs > ")  # "C:\\Users\\q506869\\OneDrive - BMW Group\\Dokumente\\01_Ausbildung\\Übernahme"  # input("Pfad angeben > ")
+                "│ Path to PDFs > ")
 
             if "\\" not in SOURCE:
                 continue
